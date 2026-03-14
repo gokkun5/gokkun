@@ -11,6 +11,11 @@
 
 <h1><img src="neon.jpg" alt=""></h1>
 
+<div class="layout">
+
+<!-- 左サイドバー -->
+<div class="sidebar">
+
 <input 
 type="text" 
 id="search" 
@@ -27,11 +32,16 @@ oninput="showFigures()"
 <option value="kimetu">鬼滅の刃</option>
 <option value="wanpi">ワンピース</option>
 <option value="db">ドラゴンボール</option>
+<option value="hant">Hunter×Hunter</option>
 <option value="furi-ren">葬送のフリーレン</option>
 <option value="hiro">僕のヒーローアカデミア</option>
+<option value="oba">オーバーロード</option>
 <option value="zyuzyutu">呪術廻旋</option>
+<option value="kusuri">薬屋のひとりごと</option>
+<option value="buri">BLEACH</option>
+<option value="tyen">チェンソーマン</option>
+<option value="kisekoi">その着せ替え人形は恋をする</option>
 <option value="orerebe">俺だけレベルアップな件</option>
-
 
 </select>
 
@@ -39,14 +49,24 @@ oninput="showFigures()"
 <select id="type" onchange="showFigures()">
 
 <option value="all">All Types</option>
-<option value="MAXIMATIC">MAXIMATIC</option>
+<option value="gra">Grandista</option>
+<option value="ma">MAXIMATIC</option>
 <option value="AMP">AMP</option>
-<option value="Grandista">Grandista</option>
-<option value="Coreful">Coreful</option>
+<option value="bri">BRILLIANT</option>
+<option value="core">Coreful</option>
 <option value="esp">ESPREST</option>
+<option value="ex">Exc∞d Creative</option>
 <option value="trio">Trio-Try-iT</option>
 <option value="gli">GLITTER&GLAMOURS</option>
+<option value="lum">Luminasta</option>
 <option value="fig">FIGURIZMα</option>
+<option value="72">72 SERIES</option>
+<option value="syutu">SOLID EDGE WORKS-THE出陣-</option>
+<option value="tmost">T-most</option>
+<option value="vib">VIBRATION STARS</option>
+<option value="xros">XrossLink</option>
+<option value="nusuto">ぬーどるストッパー</option>
+<option value="ninkai">忍界造形列伝</option>
 
 </select>
 
@@ -54,25 +74,78 @@ oninput="showFigures()"
 <select id="price" onchange="showFigures()">
 
 <option value="all">All Prices</option>
+<option value="700">700円</option>
 <option value="800">800円</option>
+<option value="900">900円</option>
 <option value="1000">1000円</option>
+<option value="1100">1100円</option>
 <option value="1200">1200円</option>
 <option value="1300">1300円</option>
 <option value="1500">1500円</option>
 <option value="1600">1600円</option>
+<option value="1800">1800円</option>
 <option value="2000">2000円</option>
-
+<option value="2200">2200円</option>
 <option value="2500">2500円</option>
-
-
 
 </select>
 
+<!-- ソート -->
+<select id="sort" onchange="showFigures()">
+
+<option value="none">並び替え</option>
+<option value="priceLow">価格が安い順</option>
+<option value="priceHigh">価格が高い順</option>
+<option value="name">名前順</option>
+
+</select>
+
+<div class="twitter-box">
+
+<div class="twitter-cta">
+💰高価買取フィギュア公開中<br>
+買取相場はXで更新しています
+<br>
+<a class="twitter-btn" href="https://x.com/NeonToys" target="_blank">
+𝕏 で最新相場を見る
+</a>
+</div>
+
+<a class="twitter-timeline"
+data-height="450"
+data-theme="dark"
+href="https://x.com/NeonToys">
+
+</a>
+
+</div>
+<div class="source">
+
+<h3>出典</h3>
+
+<ul>
+
+<li><a href="https://bsp-prize.jp/" target="_blank">バンプレストナビサイト</a></li>
+<li><a href="https://charahiroba.com/" target="_blank">キャラ広場（FuRyu）</a></li>
+<li><a href="https://segaplaza.jp/" target="_blank">セガプラザ</a></li>
+<li><a href="https://www.taito.co.jp/" target="_blank">TAITO</a></li>
+<li><a href="https://p.eagate.573.jp/game/prize/collection/top/index.html" target="_blank">KONAMI  PR!ZE COLLECTION</a></li>
+<li><a href="http://fansclub.jp/pc/top/" target="_blank">FANSCLUB（システムサービス）</a></li>
+<li><a href="https://www.sk-japan.co.jp/charatoru/topic" target="_blank">キャラとる（SK JAPAN）</a></li>
+
+</ul>
+
+</div>
+
+<script async src="https://platform.twitter.com/widgets.js"></script>
+</div>
+
+<!-- 商品一覧 -->
 <div id="figureList"></div>
 
+</div>
+
 <script src="script.js"></script>
-
-
 
 </body>
 </html>
