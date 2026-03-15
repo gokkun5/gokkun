@@ -1,5 +1,118 @@
 //全部まとめる
 const figures = [
+  
+{
+series:"zyuzyutu",
+name:"KING OF ARTIST 夏油傑",
+type:"koa",
+price:1200,
+img:"images/zyuzyutu/geto_koa.jpg"
+},
+
+{
+series:"kisekoi",
+name:"XStellar 喜多川海夢",
+type:"xs",
+price:900,
+img:"images/kisekoi/marin_xs.jpg"
+},
+
+{
+series:"wanpi",
+name:"モンキー.D.ルフィ GEAR5 Ⅱ",
+type:"bato",
+price:1100,
+img:"images/wanpi/rufi_bato2.jpg"
+},
+
+{
+series:"wanpi",
+name:"THEORAMA SOUL -シャンクス-",
+type:"",
+price:1200,
+img:"images/wanpi/syankusu.jpg"
+},
+
+{
+series:"naruto",
+name:"フィグライフ！火影岩 SPECIAL",
+type:"figl",
+price:1000,
+img:"images/naruto/boruto_fig.jpg"
+},
+
+{
+series:"kon",
+name:"Trio-Try-iT -平沢唯-",
+type:"trio",
+price:2000,
+img:"images/kon/yui_trio.jpg"
+},
+
+
+{
+series:"kon",
+name:"Trio-Try-iT -中野梓-",
+type:"trio",
+price:1900,
+img:"images/kon/azu_trio.jpg"
+},
+
+{
+series:"kon",
+name:"Trio-Try-iT -秋山澪-",
+type:"trio",
+price:1500,
+img:"images/kon/mio_trio.jpg"
+},
+
+{
+series:"kon",
+name:"Trio-Try-iT -田井中律-",
+type:"trio",
+price:1400,
+img:"images/kon/ritu_trio.jpg"
+},
+
+{
+series:"kon",
+name:"Trio-Try-iT -琴吹紬-",
+type:"trio",
+price:1400,
+img:"images/kon/mugi_trio.jpg"
+},
+
+{
+series:"singeki",
+name:"Grandista　-リヴァイ-",
+type:"gra",
+price:1500,
+img:"images/singeki/riva_gra.jpg"
+},
+
+{
+series:"singeki",
+name:"Grandista　-エレン・イェーガー-",
+type:"gra",
+price:1200,
+img:"images/singeki/eren_gra.jpg"
+},
+
+{
+series:"pansuto",
+name:"BRILLIANT パンティ",
+type:"bri",
+price:1800,
+img:"images/pansuto/panty.jpg"
+},
+
+{
+series:"nikke",
+name:"ぬーどるストッパー -シンデレラ-",
+type:"nusuto",
+price:1200,
+img:"images/nikke/sin_nusuto.jpg"
+},
 
 {
 series:"zyuzyutu",
