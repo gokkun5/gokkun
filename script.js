@@ -255,7 +255,7 @@ series:"db",
 name:"SOLID EDGE WORKS-THE出陣-ブロリーⅡ",
 type:"syutu",
 price:800,
-img:"images/DB/burori_syutu.jpg"
+img:"images/db/burori_syutu.jpg"
 },
 
 
@@ -318,7 +318,7 @@ img:"images/kimetu/giyu_gra.jpg"
 
 {
 series:"orerebe",
-name:"水篠旬　ESPREST",
+name:"ESPRESTO-Excite Motions-vol.1 水篠旬",
 type:"esp",
 price:1600,
 img:"images/orerebe/mizusino_esp.jpg"
@@ -335,7 +335,7 @@ img:"images/miku/kuromi_miku.jpg"
 
 {
 series:"miku",
-name:"ザクミク",
+name:"ガンダム45周年×初音ミク シャアザクぐるみ 初音ミクVer.",
 type:"",
 price:1600,
 img:"images/miku/miku_zaku.jpg"
@@ -371,38 +371,6 @@ name:"初音ミク ぬーどるストッパー　-ヴィンテージドール-",
 type:"nusuto",
 price:2200,
 img:"images/miku/miku_vin.jpg"
-},
-
-{
-series:"miku",
-name:"初音ミク AMP Latidos 2022",
-type:"AMP",
-price:1000,
-img:"images/miku/miku_amp2022.jpg"
-},
-
-{
-series:"miku",
-name:"初音ミク AMP birthday 2023",
-type:"AMP",
-price:1000,
-img:"images/miku/miku_amp2023.jpg"
-},
-
-{
-series:"miku",
-name:"初音ミク AMP birthday 2024",
-type:"AMP",
-price:1000,
-img:"images/miku/miku_amp2024.jpg"
-},
-
-{
-series:"miku",
-name:"初音ミク AMP birthday 2025",
-type:"AMP",
-price:1400,
-img:"images/miku/miku_amp2025.jpg"
 },
 
 {
@@ -493,21 +461,6 @@ price:1000,
 img:"images/furi-ren/hin_ma.jpg"
 },
 
-{
-series:"kimetu",
-name:"我妻善逸",
-type:"vib",
-price:1200,
-img:"images/kimetu/kimetu_zen_vib.jpg"
-},
-
-{
-series:"kimetu",
-name:"獪岳",
-type:"vib",
-price:1000,
-img:"images/kimetu/kimetu_kai_vib.jpg"
-}
 
 ];
 
