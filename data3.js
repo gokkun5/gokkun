@@ -2,6 +2,13 @@ window.figures3 = [
 
 
 
+{series:"furi-ren", name:"葬送のフリーレンハイプレミアムフィギュア‐フリーレン‐～鉱山で300年働くことになっちゃった～", search:"ふりーれん", type:"hi", price:600, date:"2026-08-28", img:"images/furi-ren/300.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦死滅回游FIGURIZMα‐リカ（完全顕現）‐", search:"りか", type:"fig", price:1000, date:"2026-08-28", img:"images/zyuzyutu/rika_fig.jpg", source:"https://segaplaza.jp/"},
+{series:"zyuzyutu", name:"呪術廻戦死滅回游Luminasta‐髙羽史彦‐", search:"たかばふみひこ", type:"lum", price:600, date:"2026-08-28", img:"images/zyuzyutu/taka_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kon", name:"けいおん！Luminasta‐平沢唯‐", search:"ひらさわゆい", type:"lum", price:800, date:"2026-08-28", img:"images/kon/yui_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kon", name:"けいおん！Luminasta‐中野梓‐", search:"なかのあずさ", type:"lum", price:800, date:"2026-08-28", img:"images/kon/azu_lum.jpg", source:"https://segaplaza.jp/"},
+{series:"kagura", name:"カグラバチちょこのせハイプレミアムフィギュア‐漣伯理‐", search:"さざなみはくり", type:"tyoko", price:800, date:"2026-08-28", img:"images/kagura/saza_hi.jpg", source:"https://segaplaza.jp/"},
+{series:"kagura", name:"カグラバチちょこのせハイプレミアムフィギュア‐香刈緋雪‐", search:"かがりひゆき", type:"tyoko", price:800, date:"2026-08-28", img:"images/kagura/kaga_tyoko.jpg", source:"https://segaplaza.jp/"},
 {series:"umamusume", name:"ウマ娘プリティーダービーXStellar‐サトノクラウン‐トレセン音頭", search:"さとのくらうん", type:"xs", price:500, date:"2026-08-28", img:"images/umamusume/satono_xs_ondo.jpg", source:"https://segaplaza.jp/"},
 {series:"umamusume", name:"ウマ娘プリティーダービーXStellar‐シュヴァルグラン‐トレセン音頭", search:"しゅヴぁるぐらん", type:"xs", price:500, date:"2026-08-28", img:"images/umamusume/syuva_xs_ondo.jpg", source:"https://segaplaza.jp/"},
 {series:"itigo", name:"いちご100％　Desktop Cute フィギュア　西野つかさ～制服ver.～", search:"にしのつかさ", type:"desk", price:800, date:"2026-08-28", img:"images/itigo/tukasa_desk.jpg", source:"https://www.taito.co.jp/"},
