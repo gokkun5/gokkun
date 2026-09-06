@@ -1,7 +1,14 @@
 window.figures3 = [
 
 
-
+{series:"buruaka", name:"ブルーアーカイブXStellar‐ミカ（水着）‐", search:"みか", type:"xs", price:800, date:"2026-08-28", img:"images/buruaka/mika_xs.jpg", source:"https://segaplaza.jp/"},
+{series:"ban", name:"きゃらごん　Ave Mujica パールver.　豊川祥子", search:"とがわさきこ", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_toyo.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"ban", name:"きゃらごん　Ave Mujica パールver.　八幡海鈴", search:"やはたうみり", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_yaha.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"ban", name:"きゃらごん　Ave Mujica パールver.　三角初華", search:"みすみういか", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_misumi.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"ban", name:"きゃらごん　Ave Mujica パールver.　祐天寺にゃむ", search:"ゆうてんじにゃむ", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_nya.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"ban", name:"きゃらごん　Ave Mujica パールver.　若葉睦", search:"わかばむつみ", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_wakaba.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"ban", name:"BanG Dream!　プレミアムフィギュア Ave Mujica 祐天寺 にゃむ 私服 ver.", search:"ゆうてんじにゃむ", type:"", price:400, date:"2026-08-28", img:"images/ban/nyamu.jpg", source:"https://prize.bushiroad-creative.com/"},
+{series:"tora", name:"To LOVEる-とらぶる-ダークネス　Desktop Cute フィギュア　結城美柑～ルームウェアver.～", search:"ゆうきみかん", type:"desk", price:800, date:"2026-08-28", img:"images/tora/mikan_desk_rumu.jpg", source:"https://www.taito.co.jp/"},
 {series:"furi-ren", name:"葬送のフリーレンハイプレミアムフィギュア‐フリーレン‐～鉱山で300年働くことになっちゃった～", search:"ふりーれん", type:"hi", price:600, date:"2026-08-28", img:"images/furi-ren/300.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦死滅回游FIGURIZMα‐リカ（完全顕現）‐", search:"りか", type:"fig", price:1000, date:"2026-08-28", img:"images/zyuzyutu/rika_fig.jpg", source:"https://segaplaza.jp/"},
 {series:"zyuzyutu", name:"呪術廻戦死滅回游Luminasta‐髙羽史彦‐", search:"たかばふみひこ", type:"lum", price:600, date:"2026-08-28", img:"images/zyuzyutu/taka_lum.jpg", source:"https://segaplaza.jp/"},
