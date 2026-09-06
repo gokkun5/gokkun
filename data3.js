@@ -1,6 +1,17 @@
 window.figures3 = [
 
 
+{series:"miku", name:"初音ミク Birthday2026　AMP＋　フィギュア～Star Dreamy ver.～", search:"はつねみく", type:"amp", price:800, date:"2026-08-29", img:"images/miku/birth2026_amp.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク Birthday2026　AMP＋　フィギュア～Star Dreamy ver.～（タイクレ限定）", search:"はつねみく", type:"amp", price:800, date:"2026-08-29", img:"images/miku/birth2026_amp_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　T-most　フィギュア～NTver.～", search:"はつねみく", type:"tmost", price:1000, date:"2026-08-29", img:"images/miku/nt_tmost.jpg", source:"https://www.taito.co.jp/"},
+{series:"miku", name:"初音ミク　T-most　フィギュア～NTver.～（タイクレ限定）", search:"はつねみく", type:"tmost", price:1000, date:"2026-08-29", img:"images/miku/nt_tmost_tai.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ビッグクリアフィギュア　キングスライム＆メタルキング＆スライムベホマズン", search:"きんぐすらいむ", type:"", price:400, date:"2026-08-29", img:"images/dorakue/kuria_king.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ビッグクリアフィギュア　キングスライム＆メタルキング＆スライムベホマズン", search:"めたるきんぐ", type:"", price:400, date:"2026-08-29", img:"images/dorakue/kuria_metaru.jpg", source:"https://www.taito.co.jp/"},
+{series:"dorakue", name:"ドラゴンクエスト　AM　ビッグクリアフィギュア　キングスライム＆メタルキング＆スライムベホマズン", search:"すらいむべほまずん", type:"", price:400, date:"2026-08-29", img:"images/dorakue/kuria_beho.jpg", source:"https://www.taito.co.jp/"},
+{series:"musyoku", name:"無職転生Ⅲ～異世界行ったら本気だす～Yumemirize‐ロキシー‐", search:"ろきしー", type:"yume", price:500, date:"2026-08-28", img:"images/musyoku/roki_yume.jpg", source:"https://segaplaza.jp/"},
+{series:"mumi", name:"ムーミン　ビッグアクションフィギュア", search:"むーみん", type:"", price:400, date:"2026-08-28", img:"images/mumi/mumi_big.jpg", source:"https://www.taito.co.jp/"},
+{series:"makein", name:"TVアニメ「負けヒロインが多すぎる！」　Coreful フィギュア　八奈見杏菜～制服ver.～（タイクレ限定）", search:"やなみあんな", type:"core", price:800, date:"2026-08-28", img:"images/makein/yanami_core_taikure.jpg", source:"https://www.taito.co.jp/"},
+{series:"makein", name:"TVアニメ「負けヒロインが多すぎる！」　Coreful フィギュア　八奈見杏菜～制服ver.～", search:"やなみあんな", type:"core", price:600, date:"2026-08-28", img:"images/makein/yanami_core.jpg", source:"https://www.taito.co.jp/"},
 {series:"buruaka", name:"ブルーアーカイブXStellar‐ミカ（水着）‐", search:"みか", type:"xs", price:800, date:"2026-08-28", img:"images/buruaka/mika_xs.jpg", source:"https://segaplaza.jp/"},
 {series:"ban", name:"きゃらごん　Ave Mujica パールver.　豊川祥子", search:"とがわさきこ", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_toyo.jpg", source:"https://prize.bushiroad-creative.com/"},
 {series:"ban", name:"きゃらごん　Ave Mujica パールver.　八幡海鈴", search:"やはたうみり", type:"", price:400, date:"2026-08-28", img:"images/ban/gon_yaha.jpg", source:"https://prize.bushiroad-creative.com/"},
