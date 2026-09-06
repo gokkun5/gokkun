@@ -3,6 +3,9 @@ window.figures3 = [
 
 
 
+{series:"rupan", name:"LUPIN THE ⅢRD 石川五ェ門 フィギュア", search:"いしかわごえもん", type:"", price:400, date:"2026-08-27", img:"images/rupan/goe.jpg", source:"https://bsp-prize.jp/"},
+{series:"rezero", name:"Re:ゼロから始める異世界生活 ESPRESTO-Excite Motions-エミリア", search:"えみりあ", type:"esp", price:600, date:"2026-08-27", img:"images/rezero/emi_es.jpg", source:"https://bsp-prize.jp/"},
+{series:"bon", name:"ボンバーガール レインボー フィギュアコレクション 最愛チアモ", search:"もあちあも", type:"", price:400, date:"2026-08-27", img:"images/bon/tiamo.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"holo", name:"ホロライブ #hololive IF -Relax time-角巻わため", search:"つのまきわため", type:"relax", price:400, date:"2026-08-27", img:"images/holo/watame_relax.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE＆MINA ASHIDO-　葉隠透", search:"はがくれとおる", type:"gli", price:800, date:"2026-08-27", img:"images/hiro/hagakure_gli2.jpg", source:"https://bsp-prize.jp/"},
 {series:"hiro", name:"僕のヒーローアカデミア GLITTER&GLAMOURS-TORU HAGAKURE＆MINA ASHIDO-　芦戸三奈", search:"あしどみな", type:"gli", price:800, date:"2026-08-27", img:"images/hiro/asido_gli.jpg", source:"https://bsp-prize.jp/"},
