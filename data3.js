@@ -1,6 +1,11 @@
 window.figures3 = [
 
 
+{series:"gundam", name:"『機動戦士ガンダムSEED FREEDOM』 GLITTER&GLAMOURS-Lacus Clyne-Pilot suit Pearl color ver.", search:"らくすくらいん　ラクスクライン", type:"gli", price:400, date:"2026-09-03", img:"images/gundam/rakusu_gli_p.jpg", source:"https://bsp-prize.jp/"},
+{series:"aimasu", name:"学園アイドルマスター ESPRESTO-High contrast-十王星南", search:"じゅうおうせな", type:"esp", price:400, date:"2026-09-03", img:"images/aimasu/sena_esp_h.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンティガ 胸像ライト", search:"うるとらまんてぃが", type:"", price:500, date:"2026-09-03", img:"images/uru/tega_rumu.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマン 英雄勇像 ウルトラマン(Cタイプ)", search:"うるとらまん", type:"eiyu", price:1000, date:"2026-09-03", img:"images/uru/uru_eiyu.jpg", source:"https://bsp-prize.jp/"},
+{series:"uru", name:"ウルトラマンA 英雄勇像 ウルトラマンA", search:"うるとらまんえーす", type:"eiyu", price:1000, date:"2026-09-03", img:"images/uru/ace_eiyu.jpg", source:"https://bsp-prize.jp/"},
 {series:"miku", name:"初音ミク Birthday2026　AMP＋　フィギュア～Star Dreamy ver.～", search:"はつねみく", type:"amp", price:800, date:"2026-08-29", img:"images/miku/birth2026_amp.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク Birthday2026　AMP＋　フィギュア～Star Dreamy ver.～（タイクレ限定）", search:"はつねみく", type:"amp", price:800, date:"2026-08-29", img:"images/miku/birth2026_amp_tai.jpg", source:"https://www.taito.co.jp/"},
 {series:"miku", name:"初音ミク　T-most　フィギュア～NTver.～", search:"はつねみく", type:"tmost", price:1000, date:"2026-08-29", img:"images/miku/nt_tmost.jpg", source:"https://www.taito.co.jp/"},
@@ -63,8 +68,8 @@ window.figures3 = [
 {series:"zyozyo", name:"ジョジョの奇妙な冒険 ストーンオーシャン Mometria エンリコ・P", search:"えんりこぷっち", type:"mome", price:1000, date:"2026-08-27", img:"images/zyozyo/p_mome.jpg", source:"https://bsp-prize.jp/"},
 {series:"hora", name:"貞子 のろいの胸像フィギュア-貞子-", search:"さだこ", type:"", price:500, date:"2026-08-27", img:"images/hora/sadako_noroi.jpg", source:"https://bsp-prize.jp/"},
 {series:"kusuri", name:"TVアニメ『薬屋のひとりごと』 Break time collection vol.2", search:"じんし　壬氏", type:"bre", price:800, date:"2026-08-27", img:"images/kusuri/zinsi_bre.jpg", source:"https://bsp-prize.jp/"},
-{series:"miku", name:"重音テト　コナミデフォルメフィギュア 通常衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_tu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
-{series:"miku", name:"重音テト　コナミデフォルメフィギュア SV衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_sv.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"voice", name:"重音テト　コナミデフォルメフィギュア 通常衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_tu.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
+{series:"voice", name:"重音テト　コナミデフォルメフィギュア SV衣装Ver.", search:"かさねてと", type:"", price:800, date:"2026-08-27", img:"images/miku/teto_defo_sv.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 兎田ぺこら", search:"うさだぺこら", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_peko.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 姫森ルーナ", search:"ひめもりるーな", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_runa.jpg", source:"https://charahiroba.com/"},
 {series:"holo", name:"ホロライブプロダクション ひっかけフィギュアVol.7 アキ・ローゼンタール", search:"あきろぜんたーる", type:"hikkake", price:400, date:"2026-08-26", img:"images/holo/hi_7_aki.jpg", source:"https://charahiroba.com/"},
@@ -245,7 +250,7 @@ window.figures3 = [
 {series:"sanrio", name:"サンリオキャラクターズ SOFVIMATES～あひるのペックル～", search:"ぺっくる", type:"sof", price:500, date:"2026-07-23", img:"images/sanrio/pekku_sof.jpg", source:"https://bsp-prize.jp/"},
 {series:"kuresin", name:"映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション シロ蓄光シリコンフィギュア", search:"しろ", type:"", price:600, date:"2026-07-23", img:"images/kuresin/siro_rumu.jpg", source:"https://bsp-prize.jp/"},
 {series:"kinniku", name:"『キン肉マン』完璧超人始祖編 リアルフィギュア-ラーメンマン-", search:"らーめんまん", type:"", price:400, date:"2026-07-23", img:"images/kinniku/rame.jpg", source:"https://bsp-prize.jp/"},
-{series:"miku", name:"重音テト ぬーどるストッパーフィギュアー重音テト・王様ver.ー", search:"かさねてと", type:"nusuto", price:1500, date:"2026-07-23", img:"images/miku/teto_ou_nusuto.jpg", source:"https://charahiroba.com/"},
+{series:"voice", name:"重音テト ぬーどるストッパーフィギュアー重音テト・王様ver.ー", search:"かさねてと", type:"nusuto", price:1500, date:"2026-07-23", img:"images/miku/teto_ou_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"aimasu", name:"学園アイドルマスター ESPRESTO-Elegant hues-有村麻央", search:"ありむらまお", type:"esp", price:500, date:"2026-07-23", img:"images/aimasu/mao_esp.jpg", source:"https://bsp-prize.jp/"},
 {series:"akunai", name:"アークナイツ ぬーどるストッパーフィギュアーゴールデングロー・夏の花弁ver.ー", search:"ごーるでんぐろー", type:"nusuto", price:700, date:"2026-07-23", img:"images/akunai/goru_nusuto.jpg", source:"https://charahiroba.com/"},
 {series:"wanpi", name:"ワンピース GLITTER&GLAMOURS-NAMI SUMMER STYLE-", search:"ナミ　なみ", type:"gli", price:700, date:"2026-07-22", img:"images/wanpi/nami_gli_sum.jpg", source:"https://bsp-prize.jp/"},
