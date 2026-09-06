@@ -2,7 +2,10 @@ window.figures3 = [
 
 
 
-
+{series:"umamusume", name:"ウマ娘プリティーダービーXStellar‐サトノクラウン‐トレセン音頭", search:"さとのくらうん", type:"xs", price:500, date:"2026-08-28", img:"images/umamusume/satono_xs_ondo.jpg", source:"https://segaplaza.jp/"},
+{series:"umamusume", name:"ウマ娘プリティーダービーXStellar‐シュヴァルグラン‐トレセン音頭", search:"しゅヴぁるぐらん", type:"xs", price:500, date:"2026-08-28", img:"images/umamusume/syuva_xs_ondo.jpg", source:"https://segaplaza.jp/"},
+{series:"itigo", name:"いちご100％　Desktop Cute フィギュア　西野つかさ～制服ver.～", search:"にしのつかさ", type:"desk", price:800, date:"2026-08-28", img:"images/itigo/tukasa_desk.jpg", source:"https://www.taito.co.jp/"},
+{series:"roze", name:"TVアニメ「ローゼンメイデン」 Trio-Try-iT Figureー翠星石ー", search:"すいせいせき", type:"trio", price:500, date:"2026-08-27", img:"images/roze/suisei_trio.jpg", source:"https://charahiroba.com/"},
 {series:"rupan", name:"LUPIN THE ⅢRD 石川五ェ門 フィギュア", search:"いしかわごえもん", type:"", price:400, date:"2026-08-27", img:"images/rupan/goe.jpg", source:"https://bsp-prize.jp/"},
 {series:"rezero", name:"Re:ゼロから始める異世界生活 ESPRESTO-Excite Motions-エミリア", search:"えみりあ", type:"esp", price:600, date:"2026-08-27", img:"images/rezero/emi_es.jpg", source:"https://bsp-prize.jp/"},
 {series:"bon", name:"ボンバーガール レインボー フィギュアコレクション 最愛チアモ", search:"もあちあも", type:"", price:400, date:"2026-08-27", img:"images/bon/tiamo.jpg", source:"https://p.eagate.573.jp/game/prize/collection/top/index.html"},
